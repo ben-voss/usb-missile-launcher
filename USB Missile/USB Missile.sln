@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missile Control", "Missile Control\Missile Control.csproj", "{C1E8F17F-8DC3-43ED-BE53-757F12C4294F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missile Device", "Missile Device\Missile Device.csproj", "{499CBF64-9FD2-40F1-9898-0901202E4E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E8F17F-8DC3-43ED-BE53-757F12C4294F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E8F17F-8DC3-43ED-BE53-757F12C4294F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E8F17F-8DC3-43ED-BE53-757F12C4294F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E8F17F-8DC3-43ED-BE53-757F12C4294F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499CBF64-9FD2-40F1-9898-0901202E4E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499CBF64-9FD2-40F1-9898-0901202E4E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499CBF64-9FD2-40F1-9898-0901202E4E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499CBF64-9FD2-40F1-9898-0901202E4E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
