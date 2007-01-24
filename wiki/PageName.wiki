@@ -1,5 +1,0 @@
-#summary Root Wiki Page
-
-= Introduction =
-
-This is just a placeholder page.  If you use this code, tell me what you did with it and I'll post it on this page.
