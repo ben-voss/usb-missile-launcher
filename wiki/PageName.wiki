@@ -2,11 +2,4 @@
 
 = Introduction =
 
-Just a placeholder page really
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This is just a placeholder page.  If you use this code, tell me what you did with it and I'll post it on this page.
